@@ -114,7 +114,7 @@ public $Blocks = [
 
   public $Miscellaneous = [
     "ICON" => ["Miscellaneous",368,0],
-	"Beacon" => [138,0,50000,25000],
+	"Beacon" => [138,0,100000,25000],
 	"Drachenei" => [122,0,150000,50000],
 	"NetherReaktor" => [247,0,150000,50000],
 	"PVP Elixir" => [373,101,35000,500],
